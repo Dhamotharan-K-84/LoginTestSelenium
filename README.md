@@ -9,15 +9,25 @@ This project demonstrates how to automate a web login form using Selenium WebDri
 ## 📂 Project Structure
 
 LoginTestSelenium/
+
 ├── .classpath
+
 ├── .project
+
 ├── chromedriver.exe
+
 ├── bin/
+
 │ └── test/
+
 │ └── LoginTest.class
+
 ├── src/
+
 │ └── test/
+
 │ └── LoginTest.java
+
 └── README.md
 
 
