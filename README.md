@@ -56,10 +56,13 @@ LoginTestSelenium/
 ### 1. Clone the Repository
 
 ```bash
+
 git clone https://github.com/Dhamotharan-K-84/LoginTestSelenium.git
 
----
+```
+
 ### 2. Set Up in Eclipse
+```
 
 Open Eclipse
 
@@ -71,9 +74,9 @@ Right-click on the project → Build Path → Configure Build Path → Add Exter
 
 Add Selenium JARs (from selenium-java-X.X.X.zip/lib)
 
----
-
+```
 ### 3. Place chromedriver.exe
+```
 
 Place chromedriver.exe in the project root folder or
 
@@ -81,12 +84,11 @@ Set system property in code:
 
 System.setProperty("webdriver.chrome.driver", "path/to/chromedriver.exe");
 
----
-
+```
 ### 🧪 Run the Test
+```
 
 Open LoginTest.java in src/test/
 
 Right-click → Run As → JUnit Test
-
----
+```
